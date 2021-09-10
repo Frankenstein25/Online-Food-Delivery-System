@@ -1,8 +1,8 @@
 # Online Food Ordering System 
 
-## Deployed Link-> [OFO.com](https://ofosystem.herokuapp.com/)
+## Deployed Link : [OFO.com](https://ofosystem.herokuapp.com/)
 
-### Home Page(Landing Page):
+### Home Page (Landing Page):
 
 ![](Project_Images/1.jpg)
 
@@ -17,7 +17,7 @@
 
 ![](Project_Images/signup.jpg)
 
-### User Created Successfully Model:
+### User Created Successfully Modal:
 
 ![](Project_Images/user_created_successfully.jpg)
 
@@ -28,7 +28,6 @@
 ### Items added to cart:
 
 ![](Project_Images/7.jpg)
-
 
 ### Product Modal:
 
