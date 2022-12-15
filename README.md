@@ -1,7 +1,5 @@
 # Online Food Ordering System 
 
-## Deployed Link : [OFO.com](https://ofosystem.herokuapp.com/)
-
 ### Home Page (Landing Page):
 
 ![](Project_Images/1.jpg)
